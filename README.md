@@ -3,7 +3,7 @@
 **Applied AI student (B.Sc.) at TH Rosenheim, building AI systems that make decisions you can check.**
 LLM agents with guardrails, explainable ML for fraud and anti-money-laundering, and tools for EU AI Act compliance. Based in Munich / Rosenheim.
 
-**Open to Werkstudent roles in AI, ML and data in Munich.**
+**Open to Werkstudent roles in AI, ML and data.**
 
 [LinkedIn](https://www.linkedin.com/in/aditya-singh-shekhawat) · adityasinghshekhawat000@outlook.com
 
